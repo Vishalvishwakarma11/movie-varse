@@ -25,6 +25,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bcb65923-da08-4b44-8624-48612d244412"
+      }
+    },
+    "owner": "vishalvishwakarmaa",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/bcb65923-da08-4b44-8624-48612d244412"
     }
   }
 }
